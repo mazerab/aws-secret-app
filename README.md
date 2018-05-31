@@ -19,4 +19,12 @@ Follow the instructions documented in [this blog post](https://developer.autodes
 
 1. Download the files from this repository
 2. Edit index.js in your favorite text editor
-3. Change the 
+3. Change the secretName value on line 7 with your secret store name
+4. Update the AWS region value on lines 5 and 6 
+5. Save the changes
+6. Open a terminal and navigate to your repository directory
+7. Run `npm install`
+8. In same terminal window, run `node index.js`
+9. Open a web browser and navigate to `http://localhost:3000`
+
+You should see the Forge credentials data displayed in your browser and the terminal console.
