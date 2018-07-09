@@ -15,6 +15,10 @@ Follow the instructions documented in [this blog post](https://developer.autodes
 6. Give your secret store a name 
 7. Save the secret
 
+## Configure AWS credentials
+
+1. Setup your [AWS credentials](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-credentials.html) on your development machine
+
 ## Setup the Node.js Express App
 
 1. Download the files from this repository to a new directory
